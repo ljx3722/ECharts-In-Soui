@@ -1,4 +1,4 @@
-﻿<SOUI name="mainWindow" title="@string/title" bigIcon="ICON_LOGO:32" smallIcon="ICON_LOGO:16" width="600" height="400"  margin="20,5,5,5"  resizable="1" wndType="appMain"
+﻿<SOUI name="mainWindow" title="@string/title" bigIcon="ICON_LOGO:32" smallIcon="ICON_LOGO:16" width="600" height="500"  margin="20,5,5,5"  resizable="1" wndType="appMain"
 appWnd="1"
 translucent="1"
 >
@@ -16,7 +16,7 @@ translucent="1"
     <button pos="%60,35,@90,@30" offset="-0.5,0" name="btn_change_pie_3" focusable="0">三杀+1</button>
     <button pos="%85,35,@90,@30" offset="-0.5,0" name="btn_change_pie_4" focusable="0">送成鬼+1</button>
     <window pos="15,[5,-5,-5">
-      <wkeWebkit pos="0,0,-0,-0" url="E:\\myproject\\[4] Just for Fun\\ECharts In Soui\\ECharts In Soui with MiniBlink\\echarts\\Demo1.htm" name="wke_test"/>
+      <wkeWebkit pos="0,0,-0,-0" name="wke_test" url=""/>
     </window>
   </root>
 </SOUI>
